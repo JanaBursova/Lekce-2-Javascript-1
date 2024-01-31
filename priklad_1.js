@@ -5,3 +5,5 @@ Zamyslete se nad tím, zda vámi vytvořený výraz generuje všechna čísla sk
 
 document.body.innerHTML = "<h1>priklad_1"
 
+
+
