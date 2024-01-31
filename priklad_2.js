@@ -4,3 +4,5 @@ Hodnotu proměnné prijem vypište do stránky.
 Divadlo se rozhodlo prodávat studentské vstupné ve výši 65 % plného vstupného. Jak se změní měsíční příjem divadla pokud víme, že 40 % návštěvníků jsou studenti?
 Vypište do stránky i příjem divadla se započítanou slevou pro studenty.
 */
+
+document.body.innerHTML = "<h1>priklad_1"
