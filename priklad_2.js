@@ -6,3 +6,4 @@ Vypište do stránky i příjem divadla se započítanou slevou pro studenty.
 */
 
 document.body.innerHTML = "<h1>priklad_1"
+
