@@ -7,3 +7,13 @@ Vypište do stránky i příjem divadla se započítanou slevou pro studenty.
 
 document.body.innerHTML = "<h1>priklad_1"
 
+const cena_listku = 12
+const pocet_navstevniku = 173
+const pocet_predstaveni = 15
+
+
+let prijem = cena_listku * pocet_navstevniku * pocet_predstaveni
+
+console.log(
+  "Prijem divadla je: " + prijem
+)
